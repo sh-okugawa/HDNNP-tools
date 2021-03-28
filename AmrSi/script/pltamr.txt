@@ -1,0 +1,14 @@
+Training curve of amr216-2 is plotted
+G-data of 2 Train((378, 216, 48)) is plotted
+Symm_func of amr216-2 is plotted
+Saved PC1/PC2/PC3 data of 2: Shape= 378x216x48
+PC123.txt of amr216-2 is saved
+KDE chart of 2 is plotted
+KDE chart of amr216-2 is plotted
+Training curve of amr216-3 is plotted
+G-data of 3 Train((378, 216, 48)) is plotted
+Symm_func of amr216-3 is plotted
+Saved PC1/PC2/PC3 data of 3: Shape= 378x216x48
+PC123.txt of amr216-3 is saved
+KDE chart of 3 is plotted
+KDE chart of amr216-3 is plotted
